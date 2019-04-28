@@ -9,3 +9,10 @@ Full model description is published in: Barnhart, E., Allard, J., Mogilner, A., 
 * Edit the line __runName = 'testrun1';__ to a desired runName.
 
 * Run __doPdeSingle.m__. This will create a directory in /runs/ with the runName, perform a single execution of the model, and run analysis of the results that will generate plots.
+
+
+## Requirements
+
+* Matlab 2018a
+
+* Mex requires a C compiler
